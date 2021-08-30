@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<order_list>
+<order>
+  <id>317608383</id>
+  <date>30.08.2021 10:09:26</date>
+  <notes/>
+  <shipping_method>DPD - Przedpłata</shipping_method>
+  <payment_method>PayU</payment_method>
+  <payment_surcharge>0.00</payment_surcharge>
+  <total>599.00</total>
+  <subtotal>599.00</subtotal>
+  <tax/>
+  <shipping_cost>0.00</shipping_cost>
+  <customer_info>
+  <title/>
+	<email>ysf866d1ct+3052528c6@allegromail.pl</email>
+	<first_name>Adam Hyczar</first_name>
+	<last_name>Adam Hyczar</last_name>
+	<phone>+48693459839</phone>
+        <adress>M.Zientary-Malewskiej 55c/2</adress>
+        <address_line2/>
+        <address_line3/>
+        <state />
+        <country>PL</country>
+        <zipcode>10-310 Olsztyn</zipcode>
+	<billing_info>
+		<title></title>
+		<company_name></company_name>
+		<nip></nip>
+		<first_name>Adam Hyczar</first_name>
+		<last_name> </last_name>
+		<phone>+48693459839</phone>
+		<address>M.Zientary-Malewskiej 55c/2</address>
+		<address_line2> </address_line2>
+		<address_line3></address_line3>
+		<city>Olsztyn</city>
+		<state></state>
+		<country>PL</country>
+		<zipcode>10-310</zipcode>
+	</billing_info>
+	<shipping_info>
+		<title></title>
+		<company_name></company_name>
+		<nip></nip>
+		<first_name>Adam Hyczar</first_name>
+		<last_name> </last_name>
+		<phone>+48693459839</phone>
+		<address>M.Zientary-Malewskiej 55c/2</address>
+		<address_line2> </address_line2>
+		<address_line3></address_line3>
+		<city>Olsztyn</city>
+		<state></state>
+		<country>PL</country>
+		<zipcode>10-310</zipcode>
+	</shipping_info>
+  </customer_info>
+  <order_items>
+    <oder_item>
+  <product_id>SM-T220NZAAEUE</product_id>
+    <product_ean></product_ean>	
+    <product_name>Tablet SAMSUNG Galaxy TAB A7 Lite T220 WiFi szary</product_name>	
+     <price>599.00</price>
+     <quantity>1</quantity>
+</oder_item>
+  </order_items>
+</order>
+</order_list><order_list>
+<order>
+  <id>317608405</id>
+  <date>30.08.2021 10:08:08</date>
+  <notes/>
+  <shipping_method>DPD - Przedpłata</shipping_method>
+  <payment_method>PayU</payment_method>
+  <payment_surcharge>0.00</payment_surcharge>
+  <total>99.00</total>
+  <subtotal>99.00</subtotal>
+  <tax/>
+  <shipping_cost>0.00</shipping_cost>
+  <customer_info>
+  <title/>
+	<email>mqk73x8q4h+34e0b0059@allegromail.pl</email>
+	<first_name>Paweł Sturgulewski</first_name>
+	<last_name>Paweł Sturgulewski</last_name>
+	<phone>+48515609416</phone>
+        <adress>ul. Cieszyńska 5/45</adress>
+        <address_line2/>
+        <address_line3/>
+        <state />
+        <country>PL</country>
+        <zipcode>02-716 Warszawa</zipcode>
+	<billing_info>
+		<title></title>
+		<company_name></company_name>
+		<nip></nip>
+		<first_name>Paweł Sturgulewski</first_name>
+		<last_name> </last_name>
+		<phone>+48515609416</phone>
+		<address>ul. Cieszyńska 5/45</address>
+		<address_line2> </address_line2>
+		<address_line3></address_line3>
+		<city>Warszawa</city>
+		<state></state>
+		<country>PL</country>
+		<zipcode>02-716</zipcode>
+	</billing_info>
+	<shipping_info>
+		<title></title>
+		<company_name></company_name>
+		<nip></nip>
+		<first_name>Paweł Sturgulewski</first_name>
+		<last_name> </last_name>
+		<phone>+48515609416</phone>
+		<address>ul. Cieszyńska 5/45</address>
+		<address_line2> </address_line2>
+		<address_line3></address_line3>
+		<city>Warszawa</city>
+		<state></state>
+		<country>PL</country>
+		<zipcode>02-716</zipcode>
+	</shipping_info>
+  </customer_info>
+  <order_items>
+    <oder_item>
+  <product_id>EI-T5300BBEGWW</product_id>
+    <product_ean>8806090840067</product_ean>	
+    <product_name>SAMSUNG GALAXY SmartTag LOKALIZATOR EI-T5300 BLACK</product_name>	
+     <price>99.00</price>
+     <quantity>1</quantity>
+</oder_item>
+  </order_items>
+</order>
+</order_list><order_list>
+<order>
+  <id>317604113</id>
+  <date>30.08.2021 09:53:55</date>
+  <notes/>
+  <shipping_method>DPD - Przedpłata</shipping_method>
+  <payment_method>PayU</payment_method>
+  <payment_surcharge>0.00</payment_surcharge>
+  <total>126.99</total>
+  <subtotal>118.00</subtotal>
+  <tax/>
+  <shipping_cost>8.99</shipping_cost>
+  <customer_info>
+  <title/>
+	<email>ls7drtwmz9+83e37397@allegromail.pl</email>
+	<first_name>Ewa Zalewska</first_name>
+	<last_name>Ewa Zalewska</last_name>
+	<phone>+48786149309</phone>
+        <adress>Mazury, 11</adress>
+        <address_line2/>
+        <address_line3/>
+        <state />
+        <country>PL</country>
+        <zipcode>18-200 Wysokie Mazowieckie</zipcode>
+	<billing_info>
+		<title></title>
+		<company_name></company_name>
+		<nip></nip>
+		<first_name>Ewa Zalewska</first_name>
+		<last_name> </last_name>
+		<phone>+48786149309</phone>
+		<address>Mazury, 11</address>
+		<address_line2> </address_line2>
+		<address_line3></address_line3>
+		<city>Wysokie Mazowieckie</city>
+		<state></state>
+		<country>PL</country>
+		<zipcode>18-200</zipcode>
+	</billing_info>
+	<shipping_info>
+		<title></title>
+		<company_name></company_name>
+		<nip></nip>
+		<first_name>Ewa Zalewska</first_name>
+		<last_name> </last_name>
+		<phone>+48786149309</phone>
+		<address>Mazury, 11</address>
+		<address_line2> </address_line2>
+		<address_line3></address_line3>
+		<city>Wysokie Mazowieckie</city>
+		<state></state>
+		<country>PL</country>
+		<zipcode>18-200</zipcode>
+	</shipping_info>
+  </customer_info>
+  <order_items>
+    <oder_item>
+  <product_id>S7710</product_id>
+    <product_ean>4008496818488</product_ean>	
+    <product_name>Prostownica Remington S7710</product_name>	
+     <price>118.00</price>
+     <quantity>1</quantity>
+</oder_item>
+  </order_items>
+</order>
+</order_list><order_list>
+<order>
+  <id>317604108</id>
+  <date>30.08.2021 09:53:14</date>
+  <notes/>
+  <shipping_method>DPD - Przedpłata</shipping_method>
+  <payment_method>PayU</payment_method>
+  <payment_surcharge>0.00</payment_surcharge>
+  <total>307.99</total>
+  <subtotal>299.00</subtotal>
+  <tax/>
+  <shipping_cost>8.99</shipping_cost>
+  <customer_info>
+  <title/>
+	<email>z65b1tjsnq+40cd2bec3@allegromail.pl</email>
+	<first_name>Michał Sobczak</first_name>
+	<last_name>Michał Sobczak</last_name>
+	<phone>+48782152902</phone>
+        <adress>Konopnickiej 10</adress>
+        <address_line2/>
+        <address_line3/>
+        <state />
+        <country>PL</country>
+        <zipcode>99-100 Łęczyca</zipcode>
+	<billing_info>
+		<title></title>
+		<company_name>Kancelaria Notarialna</company_name>
+		<nip></nip>
+		<first_name>Michał Sobczak</first_name>
+		<last_name> </last_name>
+		<phone>+48782152902</phone>
+		<address>Konopnickiej 10</address>
+		<address_line2> </address_line2>
+		<address_line3></address_line3>
+		<city>Łęczyca</city>
+		<state></state>
+		<country>PL</country>
+		<zipcode>99-100</zipcode>
+	</billing_info>
+	<shipping_info>
+		<title></title>
+		<company_name>Kancelaria Notarialna</company_name>
+		<nip></nip>
+		<first_name>Michał Sobczak</first_name>
+		<last_name> </last_name>
+		<phone>+48782152902</phone>
+		<address>Konopnickiej 10</address>
+		<address_line2> </address_line2>
+		<address_line3></address_line3>
+		<city>Łęczyca</city>
+		<state></state>
+		<country>PL</country>
+		<zipcode>99-100</zipcode>
+	</shipping_info>
+  </customer_info>
+  <order_items>
+    <oder_item>
+  <product_id>GP-Y100HAHHBAC</product_id>
+    <product_ean></product_ean>	
+    <product_name>Słuchawki bezprzewodowe Samsung AKG Y100 niebieski</product_name>	
+     <price>299.00</price>
+     <quantity>1</quantity>
+</oder_item>
+  </order_items>
+</order>
+</order_list>
