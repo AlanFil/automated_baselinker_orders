@@ -1,12 +1,13 @@
 import xml.etree.ElementTree as xml
-import datetime
+from datetime import datetime
+from time import time
 
 
 def create_xml(data):
     root = xml.Element('order_list')
 
     for ele in data:
-        date = datetime.datetime.fromtimestamp(ele['date_add']).strftime('%d.%m.%Y %H:%M:%S')
+        date = datetime.fromtimestamp(ele['date_add']).strftime('%d.%m.%Y %H:%M:%S')
         subtotal = str(format(int(ele['payment_done']) - int(ele['delivery_price']), '.2f'))
         order = xml.Element('order')
 
@@ -67,7 +68,7 @@ def create_xml(data):
 
         order_items = xml.SubElement(order, 'order_items')
         for item in ele['products']:
-            xml.SubElement(order_items, 'product_id').text = str(item['order_product_id'])  # [produkt_sku]
+            xml.SubElement(order_items, 'product_id').text = str(item['sku'])  # [produkt_sku]
             xml.SubElement(order_items, 'product_ean').text = str(item['ean'])  # [produkt_ean]
             xml.SubElement(order_items, 'product_name').text = item['name']  # [produkt_nazwa]
             xml.SubElement(order_items, 'price').text = str(format(item['price_brutto'], '.2f'))  # [cena_brutto_szt]
@@ -77,5 +78,6 @@ def create_xml(data):
 
     tree = xml.ElementTree(root)
 
-    with open(f'result.xml', 'wb') as file:
-        tree.write(file)
+    current_time = datetime.fromtimestamp(time()).strftime('%Y-%m-%d_%H_%M')
+    with open(f'../Altum__BaseLinker_{current_time}.xml', 'wb') as file:
+        tree.write(file, encoding='utf-8', xml_declaration=True)
