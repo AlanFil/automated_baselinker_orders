@@ -79,5 +79,5 @@ def create_xml(data):
     tree = xml.ElementTree(root)
 
     current_time = datetime.fromtimestamp(time()).strftime('%Y-%m-%d_%H_%M')
-    with open(f'../Altum__BaseLinker_{current_time}.xml', 'wb') as file:
+    with open(f'Altum__BaseLinker_{current_time}.xml', 'wb') as file:
         tree.write(file, encoding='utf-8', xml_declaration=True)

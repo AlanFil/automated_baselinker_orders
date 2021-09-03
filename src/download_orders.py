@@ -1,5 +1,4 @@
 import requests
-import pprint
 import json
 
 from secrets import BASELINKER_TOKEN
